@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941013704086",
+    "project_id": "video-call-rtc-4ff4e",
+    "storage_bucket": "video-call-rtc-4ff4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941013704086:android:deadf03fb614b7041bd1b7",
+        "android_client_info": {
+          "package_name": "com.example.video_call_webrtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941013704086-q0ntih8fmp3uckq3qo0jb00h20nacr20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxYTSDVinkYxcttyj25FSifZ05-ERiqw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941013704086-q0ntih8fmp3uckq3qo0jb00h20nacr20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
